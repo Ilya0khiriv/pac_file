@@ -1,17 +1,18 @@
-var FindProxyForURL = function(init, profiles) {
-        return function(url, host) {
-            "use strict";
-            var result = init, scheme = url.substr(0, url.indexOf(":"));
-            do {
-                result = profiles[result];
-                if (typeof result === "function") result = result(url, host, scheme);
-            } while (typeof result !== "string" || result.charCodeAt(0) === 43);
-            return result;
-        };
-    }("+proxy", {
-        "+proxy": function(url, host, scheme) {
-            "use strict";
-            if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host) || /permkrai\.ru$/.test(host) || /vk\.ru$/.test(host) || /vk\.com$/.test(host) || /gosuslugi\.ru$/.test(host) || /deepseek\.com$/.test(host) || /urban-university\.ru$/.test(host) || /yandex\.ru$/.test(host)) return "DIRECT";
-            return "SOCKS 192.168.38.232:9050";
+function FindProxyForURL(url, host) {
+    // List of domains to exclude from the SOCKS proxy
+    var excludedDomains = [
+        "vk.ru",
+        "gosuslugi.ru"
+
+    ];
+
+    // Check if the host is in the excluded domains list
+    for (var i = 0; i < excludedDomains.length; i++) {
+        if (shExpMatch(host, "*." + excludedDomains[i]) || shExpMatch(host, excludedDomains[i])) {
+            return "DIRECT";
         }
-    });
+    }
+
+    // Use the SOCKS proxy for all other domains
+    return "SOCKS5 192.168.38.232:9050";
+}
