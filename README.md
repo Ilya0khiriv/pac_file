@@ -1,7 +1,11 @@
 **Тип 1 № 1**  
 **Аудирование**  
 
-https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3  
+
+
+https://github.com/user-attachments/assets/cf19ad34-51af-4205-8a75-3543d850f115
+
+
 
 ---
 
