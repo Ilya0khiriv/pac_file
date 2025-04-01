@@ -1,11 +1,9 @@
 **Тип 1 № 1**  
 **Аудирование**  
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3" type="audio/mpeg">
-  If you can't see audio player, [download the audio](https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3)
-</audio>
+[▶️ Listen to the audio](https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3)  
 
+---
 
 **Вопросы:**  
 A. Where did Sam go yesterday?  
@@ -28,7 +26,7 @@ E. What will Sam do tomorrow?
 **Тип 2 № 2**  
 **Чтение**  
 *Текст:*  
-Emma is 8 years old. She has one brother and two cats. She lives in London. Emma loves drawing and her favorite subject is Art. Yesterday, she played with her brother in the garden. They ran and laughed. Emma doesn’t like milk, but she drinks juice every day.  
+Emma is 8 years old. She has one brother and two cats. She lives in London. Emma loves drawing, and her favorite subject is Art. Yesterday, she played with her brother in the garden. They ran and laughed. Emma doesn’t like milk, but she drinks juice every day.  
 
 **Вопросы:**  
 A. How old is Emma?  
@@ -59,7 +57,6 @@ B) 1) see 2) saw 3) sees
 C) 1) play 2) played 3) plays  
 D) 1) can’t 2) couldn’t 3) can not  
 E) 1) help 2) helped 3) helps  
-
 
 ---
 
