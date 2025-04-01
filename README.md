@@ -1,25 +1,26 @@
 **Тип 1 № 1**  
 **Аудирование**  
 
-[▶️ Listen to the audio](https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3)  
+https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3  
 
 ---
 
 **Вопросы:**  
-A. Where did Sam go yesterday?  
+**A. Where did Sam go yesterday?**  
 1) Park 2) Zoo 3) School  
 
-B. What did Sam want to touch?  
+**B. What did Sam want to touch?**  
 1) Lion 2) Giraffe 3) Monkey  
 
-C. What did they eat after the zoo?  
+**C. What did they eat after the zoo?**  
 1) Pizza 2) Ice cream 3) Cake  
 
-D. What is Sam’s favorite animal?  
+**D. What is Sam’s favorite animal?**  
 1) Elephant 2) Lion 3) Monkey  
 
-E. What will Sam do tomorrow?  
+**E. What will Sam do tomorrow?**  
 1) Read a book 2) Draw pictures 3) Play football  
+
 
 ---
 
