@@ -1,11 +1,7 @@
 **Тип 1 № 1**  
 **Аудирование**  
 
-<audio controls>
-  <source src="https://github.com/Ilya0khiriv/pac_file/blob/main/ttsmaker-file-2025-4-1-9-8-26.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
-
+[https://raw.githubusercontent.com/your-username/your-repository/main/audio.mp3](https://github.com/Ilya0khiriv/pac_file/blob/main/ttsmaker-file-2025-4-1-9-8-26.mp3)
 
 
 
