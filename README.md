@@ -2,7 +2,8 @@
 **Аудирование**  
 
 <audio controls>
-  <source src="https://github.com/Ilya0khiriv/pac_file/blob/main/ttsmaker-file-2025-4-1-9-8-26.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3" type="audio/mpeg">
+  If you can't see audio player, [download the audio](https://raw.githubusercontent.com/Ilya0khiriv/pac_file/main/ttsmaker-file-2025-4-1-9-8-26.mp3)
 </audio>
 
 
